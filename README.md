@@ -1,8 +1,8 @@
 # Thursday 19 November 2026 — The World's News in One Picture
 
-[![Competition](https://img.shields.io/badge/make.fun-news--image--20261119-blue)](https://make.fun/bounty/news-image-20261119)
-[![Rank](https://img.shields.io/badge/rank-pending-lightgrey)](https://make.fun/bounty/news-image-20261119/leaderboard)
-[![Reward](https://img.shields.io/badge/reward-%24250-green)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/sandytaztaz-hue/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/sandytaztaz-hue/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 Entry for the [make.fun](https://make.fun/bounty/news-image-20261119) bounty
 **news-image-20261119** — "Sum up 19 November's world news in one image".
@@ -10,7 +10,7 @@ $250 pot, top 50 paid. Built by [@sand72](https://github.com/sandytaztaz-hue).
 
 ## The image
 
-One 1024×1024 front page on cream paper: **44 stories, 7 regions, one day**.
+A single 1024×1024 front page on cream paper: **44 stories, 7 regions, one day**.
 
 - **Masthead** — Thursday 19 November 2026, with a colour-coded region bar
   (Asia 9 · Middle East 7 · Europe 8 · Africa 5 · Americas 3 · Oceania 3 ·
